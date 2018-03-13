@@ -1035,7 +1035,7 @@ var StoreOptions = {
         type: StoreTypes.Number
     },
     'maxClusterZoomLevel': {
-        default: 14,
+        default: 12,
         type: StoreTypes.Number
     },
     'clusterZoomOnClick': {
